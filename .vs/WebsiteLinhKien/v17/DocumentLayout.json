@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:5:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien|c:\\users\\administrator\\downloads\\websitelinhkien\\websitelinhkien\\websitelinhkien\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:5:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:4:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien|c:\\users\\administrator\\downloads\\websitelinhkien\\websitelinhkien\\websitelinhkien\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:4:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:3:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien|c:\\users\\administrator\\downloads\\websitelinhkien\\websitelinhkien\\websitelinhkien\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:3:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien|c:\\users\\administrator\\downloads\\websitelinhkien\\websitelinhkien\\websitelinhkien\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\uccontrols\\ucspecialproduct.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:uccontrols\\ucspecialproduct.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\checkoutcomplete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:checkoutcomplete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\app_code\\commons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:app_code\\commons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\app_code\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:app_code\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\app_code\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:app_code\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\app_code\\articlesearchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:app_code\\articlesearchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\app_code\\sessionutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:app_code\\sessionutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien3\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\uccontrols\\ucspecialproduct.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:uccontrols\\ucspecialproduct.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\productdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:productdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien|C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\admin\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8A150106-E502-C65A-6E2E-D7E9E0685984}|C:\\Users\\ngoquanghuy\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien|solutionrelative:admin\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAADVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-28T02:23:08.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAADVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-28T02:23:08.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAADVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-28T02:23:08.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T05:23:19.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AboutUs.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\AboutUs.aspx",
+              "RelativeDocumentMoniker": "AboutUs.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\AboutUs.aspx",
+              "RelativeToolTip": "AboutUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-26T12:03:42.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\App_Code\\CartItem.cs",
+              "RelativeDocumentMoniker": "App_Code\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\App_Code\\CartItem.cs",
+              "RelativeToolTip": "App_Code\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:55:49.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\App_Code\\Cart.cs",
+              "RelativeDocumentMoniker": "App_Code\\Cart.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\App_Code\\Cart.cs",
+              "RelativeToolTip": "App_Code\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:55:48.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ArticleSearchData.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\App_Code\\ArticleSearchData.cs",
+              "RelativeDocumentMoniker": "App_Code\\ArticleSearchData.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\App_Code\\ArticleSearchData.cs",
+              "RelativeToolTip": "App_Code\\ArticleSearchData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:55:47.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SessionUtility.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\App_Code\\SessionUtility.cs",
+              "RelativeDocumentMoniker": "App_Code\\SessionUtility.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\App_Code\\SessionUtility.cs",
+              "RelativeToolTip": "App_Code\\SessionUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:51:36.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAADrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-27T05:22:51.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ucSpecialProduct.ascx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\ucControls\\ucSpecialProduct.ascx",
+              "RelativeDocumentMoniker": "ucControls\\ucSpecialProduct.ascx",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\ucControls\\ucSpecialProduct.ascx",
+              "RelativeToolTip": "ucControls\\ucSpecialProduct.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-06-26T23:44:51.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-26T11:50:26.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-26T11:51:17.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckoutComplete.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\CheckoutComplete.aspx",
+              "RelativeDocumentMoniker": "CheckoutComplete.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\CheckoutComplete.aspx",
+              "RelativeToolTip": "CheckoutComplete.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-26T12:11:27.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Checkout.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Checkout.aspx",
+              "RelativeDocumentMoniker": "Checkout.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Checkout.aspx",
+              "RelativeToolTip": "Checkout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-26T12:11:27.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\assets\\js\\main.js",
+              "RelativeDocumentMoniker": "assets\\js\\main.js",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\assets\\js\\main.js",
+              "RelativeToolTip": "assets\\js\\main.js",
+              "ViewState": "AgIAADwCAAAAAAAAAAAlwGACAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-26T23:44:37.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutUs.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\AboutUs.aspx",
+              "RelativeDocumentMoniker": "AboutUs.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\AboutUs.aspx",
+              "RelativeToolTip": "AboutUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-26T07:36:07.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Commons.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\App_Code\\Commons.cs",
+              "RelativeDocumentMoniker": "App_Code\\Commons.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\App_Code\\Commons.cs",
+              "RelativeToolTip": "App_Code\\Commons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:55:51.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\MasterPage.master",
+              "RelativeDocumentMoniker": "MasterPage.master",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\MasterPage.master",
+              "RelativeToolTip": "MasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-26T08:19:29.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Contact.aspx",
+              "RelativeDocumentMoniker": "Contact.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Contact.aspx",
+              "RelativeToolTip": "Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-26T08:18:31.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "assets\\css\\style.css",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\assets\\css\\style.css",
+              "RelativeToolTip": "assets\\css\\style.css",
+              "ViewState": "AgIAABMCAAAAAAAAAAAAAB0CAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T07:56:07.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-26T07:48:38.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ucSpecialProduct.ascx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\ucControls\\ucSpecialProduct.ascx",
+              "RelativeDocumentMoniker": "ucControls\\ucSpecialProduct.ascx",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\ucControls\\ucSpecialProduct.ascx",
+              "RelativeToolTip": "ucControls\\ucSpecialProduct.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-06-26T07:35:53.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductDetail.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\ProductDetail.aspx",
+              "RelativeDocumentMoniker": "ProductDetail.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\ProductDetail.aspx",
+              "RelativeToolTip": "ProductDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-26T07:35:47.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Admin\\Default.aspx",
+              "RelativeDocumentMoniker": "Admin\\Default.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WebsiteLinhKien\\WebsiteLinhKien\\WebsiteLinhKien\\Admin\\Default.aspx",
+              "RelativeToolTip": "Admin\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-26T07:35:27.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
